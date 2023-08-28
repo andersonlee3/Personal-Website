@@ -8,6 +8,7 @@ const Journey = () => {
     <div>
       <h1 className="journeyH"> My Journey:</h1>
       <Card></Card>
+      <h2 className="inProgress">IN PROGRESS...</h2>
     </div>
   );
 };
