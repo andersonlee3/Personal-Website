@@ -1,0 +1,45 @@
+.myName{
+    text-align: center;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-size: 100px;
+}
+.job{
+    text-align: center;
+    font-family: 'Tangerine', cursive;
+    font-style: italic;
+    font-size: 60px;
+}
+.aboutMe{
+    font-family: 'Roboto Mono', monospace;
+}
+.liLogo {
+    margin-right: 10px;
+}
+.liLink{
+    text-decoration: none;
+}
+.contactLinks{
+    text-align: center;
+}
+.me{
+    height: 400px;
+    margin-left: 250px;
+    margin-right: 50px;
+    float: left;
+    border-radius: 10px;
+}
+.meHeading{
+    font-weight: bolder;
+}
+.intro{
+    margin-right: 250px;
+    font-size: 15px;
+}
+.cs{
+    margin-right: 250px;
+    font-size: 15px;
+}
+.inspo{
+    margin-right: 250px;
+    font-size: 15px;
+}
