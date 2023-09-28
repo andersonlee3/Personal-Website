@@ -29,8 +29,6 @@ const Journey = () => {
             ></Card>
           </div>
         </div>
-      </div>
-      <div className="container text-center">
         <div className="row">
           <div className="col">
             <Card
@@ -46,6 +44,16 @@ const Journey = () => {
               cardCaption="Part-Time Sales Assistant @ AMPOWER TECHNOLOGY"
               cardImg="https://cdn.asp.events/CLIENT_CloserSt_D86EA381_5056_B739_5482D50A1A831DDD/sites/DCWS-2023/media/libraries/exhibitors/fa4a89b5-4610-11ee-bff-06bd0f937899-logo.png/fit-in/500x9999/filters:no_upscale()"
               title="AMPOWER TECHNOLOGY (1/20-3/20)"
+            ></Card>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col">
+            <Card
+              cardBody="Throughout my four years at GAWHS, I participated in many extracurriculars while maintaining a 4.32 GPA. As a freshman, I joined the basketball team. As a sophomore, I joined our Associated Student Body. Even though my junior and senior years were ruined by COVID, I went on to stay in these extracurriculars until I graduated. High school has taught me how to be a leader, manage my time, persevere, and be humble."
+              cardCaption="4.32 GPA"
+              cardImg="https://resources.finalsite.net/images/f_auto,q_auto,t_image_size_2/v1684671335/hlpschoolsorg/ub05pmudi2nu4uwmzmra/GlenAWilsonHighSchool.png"
+              title="Glen. A. Wilson High School (2017-2021)"
             ></Card>
           </div>
         </div>
