@@ -1,0 +1,29 @@
+.Projects{
+    margin-top: 50px;
+    text-align: center;
+    color:maroon;
+    font-family: 'Tangerine', cursive;
+    font-size: 150px;
+    margin-bottom: 50px;
+}
+.video{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+.title{
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bolder;
+    text-align: center;
+    font-size: 40px;
+}
+.captions{
+    font-family: 'Roboto Mono', monospace;
+    margin-left: 280px;
+    margin-right: 280px;
+    font-size: 20px;
+}
+.dateCreated{
+    margin-bottom: 20px;
+}
