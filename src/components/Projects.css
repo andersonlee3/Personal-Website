@@ -22,8 +22,16 @@
     font-family: 'Roboto Mono', monospace;
     margin-left: 280px;
     margin-right: 280px;
-    font-size: 20px;
 }
 .dateCreated{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.inspiration{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.implementation{
+    font-size: 20px;
     margin-bottom: 20px;
 }
