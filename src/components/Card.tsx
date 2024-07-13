@@ -15,7 +15,16 @@ const Card = ({ cardBody, cardCaption, cardImg, title }: Props) => {
   if (visibility === 0)
     return (
       <div className="card">
-        <div className="card-body">{cardBody}</div>
+        <div className="card-body">
+          <p className="card-text">{cardBody}</p>
+          <button
+            type="button"
+            className="btn btn-primary"
+            onClick={() => setVisibility(1)}
+          >
+            Front
+          </button>
+        </div>
       </div>
     );
   return (
