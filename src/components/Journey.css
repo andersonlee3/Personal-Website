@@ -13,3 +13,7 @@
 .container{
     justify-content: center;
 }
+.vertical-timeline-element-date{
+    color: black;
+    font-size: 40px;
+}
