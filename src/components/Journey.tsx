@@ -1,4 +1,3 @@
-import React from "react";
 import "./Journey.css";
 import { BsSuitcaseLgFill } from "react-icons/bs";
 import Card from "./Card";

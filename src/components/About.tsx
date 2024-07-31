@@ -1,4 +1,3 @@
-import React from "react";
 import "./About.css";
 import me from "../assets/me.png";
 const About = () => {

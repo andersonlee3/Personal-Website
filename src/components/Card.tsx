@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import "animate.css";
 import "./Card.css";
 
