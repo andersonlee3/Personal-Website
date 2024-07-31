@@ -1,4 +1,4 @@
-import "./Projects.css";
+import "../Styling/Projects.css";
 const Projects = () => {
   return (
     <div>

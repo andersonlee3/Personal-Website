@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "animate.css";
-import "./Card.css";
+import "../Styling/Card.css";
 
 interface Props {
   cardBody: string;
