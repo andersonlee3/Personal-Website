@@ -1,6 +1,6 @@
 import "../Styling/Journey.css";
 import { BsSuitcaseLgFill } from "react-icons/bs";
-import Card from "./Card";
+import Card from "./ExperienceCard";
 import {
   VerticalTimeline,
   VerticalTimelineElement,

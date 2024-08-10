@@ -2,7 +2,7 @@ import "../Styling/About.css";
 import me from "../assets/me.png";
 const About = () => {
   return (
-    <div>
+    <div className="about-background">
       <h1 className="myName">Anderson Lee</h1>
       <h2 className="job">Software Engineer</h2>
       <h3 className="contactLinks">
@@ -50,9 +50,8 @@ const About = () => {
             Working towards my Computer Science Bachelor of Science degree has
             made me come to a realization that CS is intertwined in almost every
             aspect of our lives here in the US. Fascinated, I am trying to
-            understand this vast, complex field to its very core. To do this,
-            internships are the first step. Now, I'll show you my worth (if
-            there is any) so that you'll contact me for an interview.
+            understand this vast, complex field to its very core. Now, come
+            explore my digital playground!
           </p>
         </div>
       </div>

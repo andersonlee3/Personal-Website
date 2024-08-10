@@ -33,17 +33,21 @@
 }
 .intro{
     margin-right: 250px;
-    font-size: 20px;
+    font-size: 19px;
     margin-left: 600px;
 }
 .cs{
     margin-right: 250px;
-    font-size: 20px;
+    font-size: 19px;
     margin-left: 600px;
 }
 .inspo{
     margin-right: 250px;
     margin-bottom: 100px;
-    font-size: 20px;
+    font-size: 19px;
     margin-left: 600px;
+}
+.about-background{
+    background-color: lightsteelblue;
+    height: 778px;
 }

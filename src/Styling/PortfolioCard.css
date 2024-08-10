@@ -1,0 +1,45 @@
+.video{
+    display: block;
+    margin-left: 2%;
+    margin-top: 2%;
+    width: 90%;
+    height: 300px;
+}
+.title{
+    font-family: 'Roboto Mono';
+    font-weight: bolder;
+    text-align: center;
+    font-size: 40px;
+}
+.captions{
+    font-family: 'Roboto Mono';
+    margin-top: 2%;
+    margin-left: auto;
+    margin-bottom: 2%;
+}
+.dateCreated{
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+.inspiration{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.implementation{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.portfolio-card{
+    width: 70%;
+    border-radius: 100px;
+    margin: auto;
+    animation: flash 3s infinite;
+}
+@keyframes flash {
+    0% { border-color: #61e0e2; border-width: 4px;}
+    50% { border-color: #fff; border-width: 4px;}
+    100% { border-color: #61e0e2; border-width: 4px;}
+}
+.portfolio-card-img{
+    margin-left: 30%;
+}
