@@ -45,7 +45,7 @@ const Projects = () => {
   ];
 
   return (
-    <div>
+    <div className="portfolio">
       <h1 className="Projects">Projects:</h1>
       <Project
         title="UCSB Courses Site"
@@ -53,6 +53,7 @@ const Projects = () => {
         inspiration="Inspiration: This was a project that I wanted to work on because it would help refine my React skills and familiarize myself with Java."
         dateCreated="April 2024 - June 2024"
         descriptions={ucsbCoursesDescriptions}
+        img={ucsbCoursesImg}
       ></Project>
       <Project
         title="Oyster"
@@ -60,6 +61,7 @@ const Projects = () => {
         dateCreated="February 2024 - April 2024"
         inspiration="Inspiration: Oyster was my assigned project during my internship at DAuth Network Foundation. As a web3 startup, our main focus was blockchain. Oyster is an application that gives user cash-back in either cash or ton coins, an online currency."
         descriptions={oysterDescriptions}
+        img={OysterImg}
       ></Project>
       <Project
         title="Intelligrocery"
@@ -67,6 +69,7 @@ const Projects = () => {
         dateCreated="January 2024 - March 2024"
         inspiration="Inspiration: As college students, our pantries are extremely messy so we lose track of what ingredients we have. We also have to cook for ourselves. Thus, we created an application that tells users the ingredients they are missing in their pantry based on a recipe."
         descriptions={intelligroceryDescriptions}
+        img={IntelligroceryImg}
       ></Project>
       <Project
         title="Billiards Simulation"
@@ -74,6 +77,7 @@ const Projects = () => {
         dateCreated="June 2023"
         inspiration="Inspiration: One of my hobbies include video games. Oh, another hobby is coding. Well, since these two hobbies go hand in hand, why not try out some physics that would be used in many video games such as billiards?"
         descriptions={billiardsDescriptions}
+        img={BilliardsImg}
       ></Project>
       <Project
         title="Automated Checkout Bot"
@@ -81,6 +85,7 @@ const Projects = () => {
         dateCreated="August 2022"
         inspiration="Inspiration: As a sneakerhead, all the shoes I wanted were limited. Thus, there were bots that made copping these limited shoes way easier. Intrigued, I wanted to replicate a super simple version of these shoe bots."
         descriptions={botDescriptions}
+        img={BotImg}
       ></Project>
       <Project
         title="Fitness App"
@@ -89,8 +94,8 @@ const Projects = () => {
         inspiration="Inspiration: I am an athlete. When thinking of a project idea, I was
       motivated to create a fitness app since that is something I would use."
         descriptions={fitAppDescriptions}
+        img={FitnessAppImg}
       ></Project>
-      <h3 className="inProgress">IN PROGRESS...</h3>
     </div>
   );
 };

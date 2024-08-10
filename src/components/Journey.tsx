@@ -10,7 +10,7 @@ import { IoSchoolSharp } from "react-icons/io5";
 
 const Journey = () => {
   return (
-    <div>
+    <div className="Journey">
       <h1 className="journeyH"> My Journey:</h1>
       <VerticalTimeline>
         <VerticalTimelineElement

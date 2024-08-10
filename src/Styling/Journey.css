@@ -1,19 +1,16 @@
 .journeyH{
-    margin-top: 50px;
     text-align: center;
-    color:maroon;
+    color:lightsteelblue;
     font-family: 'Tangerine', cursive;
     font-size: 150px;
     margin-bottom: 50px;
-}
-.inProgress{
-    text-align: center;
-    font-size: 100px;
 }
 .container{
     justify-content: center;
 }
 .vertical-timeline-element-date{
-    color: black;
-    font-size: 40px;
+    color: lightsteelblue;
+}
+.Journey{
+    background-color: black;
 }

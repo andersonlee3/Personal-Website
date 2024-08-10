@@ -1,8 +1,10 @@
 .Projects{
-    margin-top: 50px;
     text-align: center;
-    color:maroon;
+    color:black;
     font-family: 'Tangerine', cursive;
     font-size: 150px;
     margin-bottom: 50px;
+}
+.portfolio{
+    background-color: lightsteelblue;
 }
