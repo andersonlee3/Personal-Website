@@ -2,8 +2,8 @@
     text-align: center;
     color:lightsteelblue;
     font-family: 'Tangerine', cursive;
-    font-size: 150px;
-    margin-bottom: 50px;
+    font-size: 6.7vw;
+    margin-bottom: 5vw;
 }
 .container{
     justify-content: center;
@@ -11,6 +11,6 @@
 .vertical-timeline-element-date{
     color: lightsteelblue;
 }
-.Journey{
+.journey-background{
     background-color: black;
 }

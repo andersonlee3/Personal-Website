@@ -1,19 +1,23 @@
 .myName{
     text-align: center;
     font-family: 'Bricolage Grotesque', sans-serif;
-    font-size: 100px;
+    font-size: 6vw;
 }
 .job{
     text-align: center;
     font-family: 'Tangerine', cursive;
     font-style: italic;
-    font-size: 60px;
+    font-size: 5vw;
 }
 .aboutMe{
     font-family: 'Roboto Mono', monospace;
 }
+.email{
+    font-size: 2vw;
+}
 .liLogo {
     margin-right: 10px;
+    width: 3vw;
 }
 .liLink{
     text-decoration: none;
@@ -21,33 +25,40 @@
 .contactLinks{
     text-align: center;
 }
+.gh-logo{
+    width: 3.2vw;
+}
+
 .me{
-    height: 400px;
-    margin-left: 250px;
-    margin-right: 50px;
+    max-height: 400px;
+    margin-left: 20vw;
     float: left;
     border-radius: 10px;
+    margin-bottom: 5%;
 }
+
 .meHeading{
     font-weight: bolder;
+    margin-right: 20vw;
+    margin-left: 2vw;
+    font-size: 1.5vw;
 }
 .intro{
-    margin-right: 250px;
-    font-size: 19px;
-    margin-left: 600px;
+    margin-right: 20vw;
+    font-size: 1.2vw;
+    margin-left: 2vw;
 }
 .cs{
-    margin-right: 250px;
-    font-size: 19px;
-    margin-left: 600px;
+    margin-right: 20vw;
+    font-size: 1.2vw;
+    margin-left: 2vw;
 }
 .inspo{
-    margin-right: 250px;
     margin-bottom: 100px;
-    font-size: 19px;
-    margin-left: 600px;
+    font-size: 1.2vw;
+    margin-right: 20vw;
+    margin-left: 2vw;
 }
 .about-background{
     background-color: lightsteelblue;
-    height: 778px;
 }
